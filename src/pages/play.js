@@ -114,7 +114,7 @@ function Play() {
 
   const tokenContract = getContract({
     client,
-    chain: bscTestnet,
+    chain: baseSepolia,
     address: "0xB74AdfE58784B86919caf25485BC914214F089D6",
   });
 

@@ -141,7 +141,7 @@ export default function Navbar({ }) {
                 client={client}
                 wallets={wallets}
                 accountAbstraction={{
-                  chain: bscTestnet,
+                  chain: baseSepolia,
                   gasless: true,
                 }}
                 theme={"dark"}
