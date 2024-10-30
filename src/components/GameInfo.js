@@ -194,7 +194,7 @@ const GameInfo = () => {
                 color: "white",
               }}
             >
-              Sworm
+              Basearps
             </Typography>
           </Box>
           <p
@@ -203,7 +203,7 @@ const GameInfo = () => {
               fontSize: "14px",
             }}
           >
-            Copyright © Sworm
+            Copyright © Basearps
           </p>
         </div>
       </div>

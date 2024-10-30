@@ -115,7 +115,7 @@ export default function Navbar({ }) {
               color: "white",
             }}
           >
-            Sworm
+            Basearps
           </Typography>
         </Box>
         <Box>
